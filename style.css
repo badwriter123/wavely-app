@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    backdrop-filter: blur(20px);
+    background-color: rgba(20, 20, 20, 0.7); /* darker gray glass */
+    color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  textarea {
+    height: 200px;
+    background: rgba(255, 255, 255, 0.08);
+    color: #e0e0e0;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    padding: 12px;
+    border-radius: 12px;
+    resize: none;
+    outline: none;
+    font-size: 14px;
+  }
+  
+  textarea:focus {
+    border-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.12);
+  }
+  
+  button {
+    padding: 12px;
+    background-color: rgba(100, 100, 100, 0.3); /* neutral gray */
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #ffffff;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.2s ease;
+    font-weight: 500;
+  }
+  
+  button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  pre {
+    white-space: pre-wrap;
+    margin-top: 16px;
+    padding: 12px;
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+    font-size: 14px;
+    color: #d1d1d1;
+  }
+  
