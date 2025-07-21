@@ -19,6 +19,6 @@ Wavely is a sleek desktop LinkedIn content copilot, built with Electron + LM Stu
 
 ⚡️ Built for creators and marketers who want **real-time content power**.
 
-Check Out ### https://rohan-portfolio-beta.vercel.app/
+Check Out -> https://rohan-portfolio-beta.vercel.app/
 
 ### Built with ❤️ and care by Rohan A M.
