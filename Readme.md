@@ -3,11 +3,12 @@
 Wavely is a sleek desktop LinkedIn content copilot, built with Electron + LM Studio + LLM APIs. It analyzes your posts and generates smart follow-up answers to increase engagement.
 
 ## Tech Stack
-- Electron.js (Desktop overlay)
+- Electron.js (Always on Screen Overlay)
 - React + Tailwind (UI)
 - Express.js (Backend)
 - bcrypt (Authentication)
 - LM Studio + Ollama (LLM inference)
+
 
 ## Features
 - Fast LinkedIn post analysis
