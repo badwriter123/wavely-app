@@ -22,4 +22,4 @@ Wavely is a sleek desktop LinkedIn content copilot, built with Electron + LM Stu
 
 Check Out -> https://rohan-portfolio-beta.vercel.app/
 
-### Built with ❤️ and care by Rohan A M.
+### Built with Love 💕 and care by Rohan A M.
